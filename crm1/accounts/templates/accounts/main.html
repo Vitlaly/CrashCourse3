@@ -1,40 +1,17 @@
 <!DOCTYPE html>
+{% load static %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+     <title>CRM1</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
           crossorigin="anonymous">
-    <title>CRM1</title>
+
+    <link rel="stylesheet" type="text/css" href="{% static '/css/main.css' %}">
+
 </head>
 
-	<style>
-
-		#logo{
-		}
-
-		body{
-			background-color: #ebeff5;
-		}
-
-
-		#total-orders{
-			background-color: #4cb4c7;
-		}
-
-
-		#orders-delivered{
-			background-color: #7abecc;
-		}
-
-		#orders-pending{
-			background-color: #7CD1C0;
-		}
-
-
-
-
-	</style>
 <body>
 
 {% include 'accounts/navbar.html' %}

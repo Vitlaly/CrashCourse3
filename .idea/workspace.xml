@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2437d1a1-14e2-49fb-93c4-7c3213d8b4b5" name="Default Changelist" comment="" />
+    <list default="true" id="2437d1a1-14e2-49fb-93c4-7c3213d8b4b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/crm1/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm1/accounts/templates/accounts/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm1/accounts/templates/accounts/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm1/accounts/templates/accounts/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm1/accounts/templates/accounts/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm1/crm1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crm1/crm1/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yM6hEXchl2U55w9oPeFHtnJPXd" />
@@ -74,5 +85,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
