@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2437d1a1-14e2-49fb-93c4-7c3213d8b4b5" name="Default Changelist" comment="" />
+    <list default="true" id="2437d1a1-14e2-49fb-93c4-7c3213d8b4b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/crm1/static/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm1/accounts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/crm1/accounts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm1/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/crm1/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/crm1/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632167461494</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit_2">
+      <created>1632167793392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632167793392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_1" />
+    <MESSAGE value="commit_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_2" />
   </component>
 </project>
